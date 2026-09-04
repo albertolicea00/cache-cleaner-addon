@@ -33,11 +33,7 @@ manifest.json
 .env
 .env.local
 .env.*.local
-
-# dist RRSS assets
-/rrss/*
-/assets/*
-/screenshots/*
+.ignore/*
 
 # ai stuff
 .agents/
